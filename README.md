@@ -1,0 +1,1 @@
+## this app to get data from slave devices with connect modbus/tcp protocol
