@@ -1,0 +1,16 @@
+.env
+/pkg/mod/
+
+.vscode/
+.idea/
+*.iml
+
+go.sum
+go.work
+go.work.sum
+
+vendor/
+bin/
+build/
+
+*.db
